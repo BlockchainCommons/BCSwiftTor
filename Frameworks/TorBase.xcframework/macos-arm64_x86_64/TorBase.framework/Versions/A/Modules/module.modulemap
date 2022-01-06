@@ -1,0 +1,11 @@
+framework module TorBase {
+  umbrella header "TorBase.h"
+
+  export *
+  module * { export * }
+}
+
+module TorBase.Swift {
+    header "TorBase-Swift.h"
+    requires objc
+}
