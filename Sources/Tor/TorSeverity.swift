@@ -18,6 +18,9 @@ public enum TorSeverity {
     case unknown(Int32)
 }
 
+extension TorSeverity: Equatable {
+}
+
 extension TorSeverity: CustomStringConvertible {
     public var description: String {
         switch self {
