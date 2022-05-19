@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target x86_64-apple-ios15-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name TorBase
 import CLZMA
 import CLibEvent
@@ -10,12 +10,12 @@ import Swift
 @_exported import TorBase
 import _Concurrency
 public enum TorUtils {
-  public static var EVENT_LOG_DEBUG: Swift.UInt32
-  public static var EVENT_LOG_MSG: Swift.UInt32
-  public static var EVENT_LOG_WARN: Swift.UInt32
-  public static var EVENT_LOG_ERR: Swift.UInt32
-  public static var EVENT_DBG_ALL: Swift.UInt32
-  public static var EVENT_DBG_NONE: Swift.UInt32
+  public static let EVENT_LOG_DEBUG: Swift.UInt32
+  public static let EVENT_LOG_MSG: Swift.UInt32
+  public static let EVENT_LOG_WARN: Swift.UInt32
+  public static let EVENT_LOG_ERR: Swift.UInt32
+  public static let EVENT_DBG_ALL: Swift.UInt32
+  public static let EVENT_DBG_NONE: Swift.UInt32
   public static var lzmaVersion: Swift.String {
     get
   }

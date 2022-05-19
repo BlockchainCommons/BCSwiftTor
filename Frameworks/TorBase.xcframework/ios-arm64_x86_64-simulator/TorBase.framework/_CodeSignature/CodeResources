@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TorBase-Swift.h</key>
 		<data>
-		rj2BDv/xTjjR/yU8KCd0UwUQ5BE=
+		2HA/foCXO4MikbKC/fWIJFe8PnU=
 		</data>
 		<key>Headers/TorBase.h</key>
 		<data>
@@ -14,39 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wlxUqUFt6BZU3LFm1I4qz+ZG5BE=
+		xVCkqBZpPrpxu2c0uZXcnRVB6Vg=
 		</data>
 		<key>Modules/TorBase.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+TAHpbTMW5q1M44MO3T25ANlA+E=
-		</data>
-		<key>Modules/TorBase.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		+TAHpbTMW5q1M44MO3T25ANlA+E=
+		tcGiuMzE3zDT5sb4+pv5xAkJHMk=
 		</data>
 		<key>Modules/TorBase.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+q5eSmpt8SKvCj7hYRdxiwDQPyo=
+		lOZ+waO2UsZqkiF+rzcJRFwQENA=
 		</data>
 		<key>Modules/TorBase.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LUXOrXBJ0e5u7trfq4P3xJvCocM=
+		r9rxail7BwWVsowjKQsSz6mp7fQ=
 		</data>
 		<key>Modules/TorBase.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Brrxb9vsEfjH+NggSSBbONMeiWE=
-		</data>
-		<key>Modules/TorBase.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		+q5eSmpt8SKvCj7hYRdxiwDQPyo=
-		</data>
-		<key>Modules/TorBase.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		LUXOrXBJ0e5u7trfq4P3xJvCocM=
-		</data>
-		<key>Modules/TorBase.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		Brrxb9vsEfjH+NggSSBbONMeiWE=
+		7EdPsqAGfNYLc0OmOLq6oo67Qek=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tOypoyLsLrkwTOW9dEyVhOnGChAjfX+JI2N6J9yNF4o=
+			+Tny5VAWlw+SGnaEubxD31Y3Ea6hb/URydOky3jZiu8=
 			</data>
 		</dict>
 		<key>Headers/TorBase.h</key>
@@ -73,56 +57,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D14cQNSUG6IuOafGBHzkGvAxnuppwbn2wKcZHASuLFk=
-			</data>
-		</dict>
-		<key>Modules/TorBase.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			D14cQNSUG6IuOafGBHzkGvAxnuppwbn2wKcZHASuLFk=
+			XkbrdVbMB1GAGi0fKV92aiEu6+GBBQ6xEaciko4PRLQ=
 			</data>
 		</dict>
 		<key>Modules/TorBase.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+AAGUm4e6dmY7Sqf6ZdNrf4guYN4VYC6Tmcg60Qe3GU=
+			zvqy5xlrR8wcLZupcwCaHym7vj/ouEjXewbvnUYY2m8=
 			</data>
 		</dict>
 		<key>Modules/TorBase.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+iIfyCn024CvAxA9doswd+R2f3HnjgxYYy4nX1uCI14=
+			ALhU4ZXdjvqcmRuyuwnC4Ob9u6zOfzowuLZEayK0e7k=
 			</data>
 		</dict>
 		<key>Modules/TorBase.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eKZfQIUPNyPNF872NzWYs3MBWUVJH6KfktszymE2LmE=
-			</data>
-		</dict>
-		<key>Modules/TorBase.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+AAGUm4e6dmY7Sqf6ZdNrf4guYN4VYC6Tmcg60Qe3GU=
-			</data>
-		</dict>
-		<key>Modules/TorBase.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+iIfyCn024CvAxA9doswd+R2f3HnjgxYYy4nX1uCI14=
-			</data>
-		</dict>
-		<key>Modules/TorBase.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eKZfQIUPNyPNF872NzWYs3MBWUVJH6KfktszymE2LmE=
+			eLvEJNS07g4QeTWuDVJ5PWM1a8Gq5H0ME/4v09F85KU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

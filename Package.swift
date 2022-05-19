@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/WolfMcNally/WolfBase",
-            from: "3.3.0"
+            from: "4.0.0"
         ),
     ],
     targets: [
